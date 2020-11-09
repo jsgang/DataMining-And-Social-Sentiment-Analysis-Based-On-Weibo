@@ -1,8 +1,8 @@
 # 基于微博的数据挖掘与社交舆情分析
 
-## This project consists of four parts:
+## 这个项目包括以下四部分:
 ```
-1. Crawl weibo data, contain comment、userinfo etc...
+1. 爬取微博数据, 包括标签、用户信息等...
 2. Process the captured data to the format we want
 3. Analyze the data in order to get social sentiment information
 4. Show the final result on the website
